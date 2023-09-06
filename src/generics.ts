@@ -104,3 +104,6 @@ class Page extends Component<IProps> {
   }
 }
 
+type ComplexType = string | number;
+
+
